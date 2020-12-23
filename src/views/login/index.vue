@@ -1,5 +1,8 @@
 <template>
-    <div class="main-container">
+    <div>
+        login
+    </div>
+    <!--<div class="main-container">
         <div class="main-content">
             <div class="row">
                 <div class="col-sm-10 col-sm-offset-1">
@@ -80,7 +83,7 @@
                                                 <i class="icon-google-plus"></i>
                                             </a>
                                         </div>
-                                    </div><!-- /widget-main -->
+                                    </div>&lt;!&ndash; /widget-main &ndash;&gt;
 
                                     <div class="toolbar clearfix">
                                         <div>
@@ -99,8 +102,8 @@
                                             </a>
                                         </div>
                                     </div>
-                                </div><!-- /widget-body -->
-                            </div><!-- /login-box -->
+                                </div>&lt;!&ndash; /widget-body &ndash;&gt;
+                            </div>&lt;!&ndash; /login-box &ndash;&gt;
 
                             <div id="forgot-box" class="forgot-box widget-box no-border">
                                 <div class="widget-body">
@@ -134,7 +137,7 @@
                                                 </div>
                                             </fieldset>
                                         </form>
-                                    </div><!-- /widget-main -->
+                                    </div>&lt;!&ndash; /widget-main &ndash;&gt;
 
                                     <div class="toolbar center">
                                         <a href="#" onclick="show_box('login-box'); return false;"
@@ -143,8 +146,8 @@
                                             <i class="icon-arrow-right"></i>
                                         </a>
                                     </div>
-                                </div><!-- /widget-body -->
-                            </div><!-- /forgot-box -->
+                                </div>&lt;!&ndash; /widget-body &ndash;&gt;
+                            </div>&lt;!&ndash; /forgot-box &ndash;&gt;
 
                             <div id="signup-box" class="signup-box widget-box no-border">
                                 <div class="widget-body">
@@ -224,14 +227,14 @@
                                             Back to login
                                         </a>
                                     </div>
-                                </div><!-- /widget-body -->
-                            </div><!-- /signup-box -->
-                        </div><!-- /position-relative -->
+                                </div>&lt;!&ndash; /widget-body &ndash;&gt;
+                            </div>&lt;!&ndash; /signup-box &ndash;&gt;
+                        </div>&lt;!&ndash; /position-relative &ndash;&gt;
                     </div>
-                </div><!-- /.col -->
-            </div><!-- /.row -->
+                </div>&lt;!&ndash; /.col &ndash;&gt;
+            </div>&lt;!&ndash; /.row &ndash;&gt;
         </div>
-    </div>
+    </div>-->
 </template>
 
 <script>
